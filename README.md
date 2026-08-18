@@ -206,7 +206,7 @@ Criar uma solução digital simples e profissional para ajudar um negócio real 
 
 </a>
 
-<a href="https://instagram.com/kauedev">
+<a href="https://instagram.com/kauedevv">
 
 <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
 
