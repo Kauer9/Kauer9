@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0A1720,100:00F5FF&text=KAUE%20RIAN&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=WEB%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=17&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0A1720,100:00F5FF&text=KAUE%20RIAN&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20ADS%20STUDENT&descAlignY=60&descSize=17&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE...;%3E+ADS+STUDENT;%3E+WEB+DEVELOPER+IN+PROGRESS;%3E+PYTHON+%7C+JAVASCRIPT+%7C+HTML+%7C+CSS;%3E+BUILDING+REAL+PROJECTS;%3E+ALWAYS+LEARNING." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;%3E+ADS+STUDENT;%3E+WEB+DEVELOPER+IN+PROGRESS;%3E+PYTHON+%7C+JAVASCRIPT+%7C+HTML+%7C+CSS;%3E+BUILDING+REAL+PROJECTS;%3E+ALWAYS+LEARNING." alt="Typing Animation"/>
 
 <br><br>
 
@@ -14,54 +14,75 @@
 
 ---
 
-# `01 // ABOUT_ME`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  DEVELOPER PROFILE                  │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Name       : Kaue Rian                             │
-│  Role       : ADS Student                           │
-│  Focus      : Web Development                       │
-│  Learning   : Python                                │
-│  Environment: VS Code                               │
-│  Country    : Brazil 🇧🇷                            │
-│  Status     : ONLINE ●                              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+## `01 // ABOUT ME`
 
 <div align="center">
 
-💻 DEVELOPMENT
+### 👋 Olá, eu sou Kaue Rian!
+
+</div>
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor web em formação.
+
+Atualmente estou focado em **desenvolvimento web, Python, JavaScript e lógica de programação**, utilizando projetos práticos para transformar conhecimento em experiência.
+
+Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções **funcionais, modernas e úteis para pessoas e empresas reais.**
+
+<div align="center">
+
+🎓 **ADS Student** &nbsp; • &nbsp;
+💻 **Web Developer** &nbsp; • &nbsp;
+🐍 **Python Learner** &nbsp; • &nbsp;
+🚀 **Project Builder**
+
+</div>
+
+---
+
+## `02 // TECH STACK`
+
+<div align="center">
+
+### 💻 Development
+
 <img src="https://skillicons.dev/icons?i=python,html,css,js,flask&theme=dark" />
 
+<br><br>
 
+### 🛠️ Tools
 
-
-🛠️ TOOLS
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark" />
 
 </div>
-           ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [✓] Programming Fundamentals                        ║
-║  [✓] HTML & CSS                                      ║
-║  [✓] Git & GitHub                                    ║
-║  [✓] First Real-World Web Project                    ║
-║                                                      ║
-║  [>] Python                                          ║
-║  [>] JavaScript                                      ║
-║  [>] Flask                                           ║
-║  [>] Algorithms & Logic                              ║
-║  [>] Responsive Web Development                      ║
-║  [>] Professional Portfolio                           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+
+---
+
+## `03 // CURRENTLY LEARNING`
+
 <div align="center">
 
-🛰️ CASTRO ALVES BARBEARIA
+| Status | Technology / Skill |
+|:---:|:---|
+| 🟢 | Python |
+| 🟢 | HTML & CSS |
+| 🟢 | JavaScript |
+| 🟡 | Flask |
+| 🟡 | Algorithms & Logic |
+| 🟡 | Responsive Web Development |
+| 🟡 | Software Engineering |
+
+</div>
+
+---
+
+## `04 // FEATURED PROJECT`
+
+<div align="center">
+
+# 🛰️ Castro Alves Barbearia
+
+### Real-world Web Project
+
 <a href="https://agendacastroalves.netlify.app/#agendamento">
 
 <img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-00F5FF?style=for-the-badge&labelColor=050505&color=00F5FF"/>
@@ -70,37 +91,26 @@
 
 </div>
 
-📌 Sobre o projeto
-Projeto desenvolvido para uma barbearia real, com o objetivo de criar uma presença digital profissional e facilitar o contato entre clientes e estabelecimento.
-O projeto reúne informações da empresa, serviços, preços e um fluxo de agendamento online.
-┌──────────────────────────────────────────────────────┐
-│ PROJECT // CASTRO ALVES BARBEARIA                    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│ STATUS       : ONLINE ●                              │
-│ TYPE         : REAL-WORLD PROJECT                    │
-│                                                      │
-│ FEATURES     :                                       │
-│                                                      │
-│  ├─ Professional Landing Page                        │
-│  ├─ Services & Pricing                               │
-│  ├─ Business Information                             │
-│  ├─ Appointment Scheduling                            │
-│  ├─ Contact Integration                              │
-│  └─ Responsive Interface                             │
-│                                                      │
-│ OBJECTIVE    :                                       │
-│ Create a professional digital presence                │
-│ and improve the customer booking experience.         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-🎯 O que aprendi com o projeto
-- Desenvolvimento de uma solução para um negócio real
-- Organização de uma interface web
-- Estruturação de páginas responsivas
-- Experiência do usuário
-- Publicação de projeto na web
-- Desenvolvimento pensando em uma necessidade real
+### 📌 Sobre o projeto
+
+Projeto desenvolvido para uma **barbearia real**, com o objetivo de criar uma presença digital profissional e facilitar o processo de contato e agendamento dos clientes.
+
+O projeto apresenta os serviços da barbearia, informações do estabelecimento e permite que o cliente tenha acesso ao fluxo de agendamento.
+
+### ✨ Principais recursos
+
+- 🌐 Landing Page profissional
+- 💈 Apresentação dos serviços
+- 💰 Exibição de preços
+- 📅 Sistema de agendamento
+- 📱 Interface responsiva
+- 📞 Integração para contato
+- 🚀 Projeto publicado na internet
+
+### 🎯 Objetivo
+
+Criar uma solução digital simples e profissional para ajudar um negócio real a melhorar sua presença online e facilitar o contato com seus clientes.
+
 <div align="center">
 
 <a href="https://agendacastroalves.netlify.app/#agendamento">
@@ -111,7 +121,10 @@ O projeto reúne informações da empresa, serviços, preços e um fluxo de agen
 
 </div>
 
-05 // GITHUB_ANALYTICS
+---
+
+## `05 // GITHUB ANALYTICS`
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauer9&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
@@ -120,6 +133,7 @@ O projeto reúne informações da empresa, serviços, preços e um fluxo de agen
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -127,45 +141,55 @@ O projeto reúne informações da empresa, serviços, preços e um fluxo de agen
 
 </div>
 
-06 // ACTIVITY_MONITOR
+---
+
+## `06 // ACTIVITY`
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauer9&bg_color=050505&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-07 // ACHIEVEMENTS
+---
+
+## `07 // GITHUB TROPHIES`
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Kauer9&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
-08 // CONTRIBUTION_MATRIX
+---
+
+## `08 // CONTRIBUTION SNAKE`
+
 <div align="center">
 
 <picture>
 
 <source
   media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Kauer9/Kauer9/output/github-snake-dark.svg"
-/>
+  srcset="https://raw.githubusercontent.com/Kauer9/Kauer9/output/github-snake-dark.svg">
+
 <source
   media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Kauer9/Kauer9/output/github-snake.svg"
-/>
+  srcset="https://raw.githubusercontent.com/Kauer9/Kauer9/output/github-snake.svg">
+
 <img
   src="https://raw.githubusercontent.com/Kauer9/Kauer9/output/github-snake.svg"
   alt="GitHub Contribution Snake"
-  width="100%"
-/>
+  width="100%">
+
 </picture>
 
-
-<sub>Contribution activity visualized through the GitHub contribution graph.</sub>
 </div>
 
-09 // CONNECT
+---
+
+## `09 // CONNECT WITH ME`
+
 <div align="center">
 
 <a href="https://github.com/Kauer9">
@@ -180,21 +204,28 @@ O projeto reúne informações da empresa, serviços, preços e um fluxo de agen
 
 </a>
 
+<a href="https://instagram.com/kauedev">
+
+<img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
+
+</a>
+
 </div>
+
+---
 
 <div align="center">
 
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║                 SYSTEM STATUS: ONLINE ●                ║
-║                                                        ║
-║             CODE • LEARN • BUILD • REPEAT              ║
-║                                                        ║
-║                 KAUE RIAN // 2026                      ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+### `SYSTEM STATUS: ONLINE ●`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:0A1720,100:050505&animation=twinkling"/>
+**Code • Learn • Build • Repeat.**
+
+<br>
+
+<sub>Kaue Rian • Web Developer • ADS Student • Brazil 🇧🇷</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:0A1720,100:050505&animation=twinkling"/>
 
 </div>
-```
