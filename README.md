@@ -75,7 +75,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções
 
 ---
 
-## `04 // FEATURED PROJECT`
+## `04 // PROJECTS`
 
 <div align="center">
 
@@ -116,6 +116,75 @@ Criar uma solução digital simples e profissional para ajudar um negócio real 
 <a href="https://agendacastroalves.netlify.app/#agendamento">
 
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-050505?style=for-the-badge&logo=netlify&logoColor=00F5FF"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛍️ Kaerri Imports
+
+### E-commerce Platform
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase&theme=dark"/>
+
+</div>
+
+### 📌 Sobre o projeto
+
+Plataforma de e-commerce própria da **Kaerri Imports** (sneakers & streetwear, atacado e varejo), substituindo uma loja hospedada em um SaaS de terceiros e mantendo um catálogo real de mais de 160 produtos.
+
+### ✨ Principais recursos
+
+- 🛒 Catálogo, carrinho e checkout completos
+- 🔐 Autenticação e painel administrativo (`/admin`)
+- 📊 Dashboard com métricas de pedidos e clientes
+- 💳 Integração de pagamento via Edge Function (PagBank)
+- 🗄️ Backend com Supabase (Postgres + Auth + RLS)
+
+### 🎯 Objetivo
+
+Construir uma solução de e-commerce real, com painel administrativo próprio, para um negócio de revenda de calçados e streetwear.
+
+---
+
+<div align="center">
+
+# 🤖 Bot Discord — Verificação
+
+### Automation / Bot Project
+
+<a href="https://github.com/Kauer9/discord-bot-verificacao">
+
+<img src="https://img.shields.io/badge/📦%20VER%20REPOSITÓRIO-00F5FF?style=for-the-badge&labelColor=050505&color=00F5FF"/>
+
+</a>
+
+</div>
+
+### 📌 Sobre o projeto
+
+Bot para Discord em **Python** que automatiza a verificação de novos membros (cargo condicionado a um clique em botão) e gerencia um estoque de nomes/códigos de 4 dígitos, com comandos administrativos via slash commands.
+
+### ✨ Principais recursos
+
+- ✅ Verificação de membros com botão persistente
+- 🎲 Estoque automático de códigos de 4 dígitos
+- ⚙️ Comandos slash para administração (gerar, usar, liberar, listar)
+- 🗃️ Persistência local com SQLite
+
+### 🎯 Objetivo
+
+Automatizar tarefas repetitivas de moderação e organização em um servidor real do Discord.
+
+<div align="center">
+
+<a href="https://github.com/Kauer9/discord-bot-verificacao">
+
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-050505?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 
 </a>
 
