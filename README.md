@@ -131,15 +131,27 @@ Criar uma solução digital simples e profissional para ajudar um negócio real 
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase&theme=dark"/>
 
+<br><br>
+
+<a href="https://github.com/Kauer9/Kaerri-Imports-platform">
+
+<img src="https://img.shields.io/badge/📦%20VER%20REPOSITÓRIO-00F5FF?style=for-the-badge&labelColor=050505&color=00F5FF"/>
+
+</a>
+
 </div>
 
 ### 📌 Sobre o projeto
 
-Plataforma de e-commerce própria da **Kaerri Imports** (sneakers & streetwear, atacado e varejo), substituindo uma loja hospedada em um SaaS de terceiros e mantendo um catálogo real de mais de 160 produtos.
+Plataforma de e-commerce própria da **Kaerri Imports** (sneakers & streetwear, atacado e varejo), substituindo uma loja hospedada em um SaaS de terceiros. Identidade visual própria em preto e dourado, com catálogo real de mais de 160 produtos.
 
 ### ✨ Principais recursos
 
 - 🛒 Catálogo, carrinho e checkout completos
+- 👤 Conta de cliente (login/cadastro) com histórico de pedidos
+- 🔄 Carrinho sincronizado entre dispositivos para quem está logado
+- 📦 Verificação de estoque em tempo real no carrinho
+- 🚚 Cálculo de frete e preenchimento automático de endereço por CEP
 - 🔐 Autenticação e painel administrativo (`/admin`)
 - 📊 Dashboard com métricas de pedidos e clientes
 - 💳 Integração de pagamento via Edge Function (PagBank)
@@ -148,6 +160,16 @@ Plataforma de e-commerce própria da **Kaerri Imports** (sneakers & streetwear, 
 ### 🎯 Objetivo
 
 Construir uma solução de e-commerce real, com painel administrativo próprio, para um negócio de revenda de calçados e streetwear.
+
+<div align="center">
+
+<a href="https://github.com/Kauer9/Kaerri-Imports-platform">
+
+<img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO-050505?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+
+</a>
+
+</div>
 
 ---
 
